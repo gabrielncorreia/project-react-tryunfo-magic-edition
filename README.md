@@ -1,2 +1,8 @@
 # project-react-tryunfo-magic-edition
  Projeto feito no bloco 11 de React na Trybe, estilizado para cartas de Magic
+
+Instruções para rodar o app:
+1. Clone o repositório
+2. Abra a pasta onde o projeto foi clonado no terminal
+3. rode o comando npm install
+4. rode o comando npm start
