@@ -10,4 +10,4 @@
 1. Clone o repositório.
 2. Abra a pasta onde o projeto foi clonado no terminal.
 3. Rode o comando `npm install`.
-4. rode o comando `npm start`.
+4. Rode o comando `npm start`.
