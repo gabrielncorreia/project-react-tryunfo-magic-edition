@@ -123,23 +123,28 @@ button:disabled {
 }
 
 .name-div {
-  margin-top: 12px;
-  margin-left: 40px;
+  margin-top: 8px;
+  margin-left: 47px;
+  font-size: 20px;
   /* border: 1px solid white; */
 }
 
 .mana-div {
   /* border: 1px solid red; */
   text-align: end;
-  margin-top: 8px;
+  margin-top: 6px;
   margin-right: 45px;
 }
 
 .mana-div h4 {
   background-color: #CFCBCD;
-  border-radius: 50%;
+  border-radius: 50px;
   box-shadow: 0px 1px 0px 1px black;
-  padding: 2px;
+  padding-top: 3px;
+  padding-right: 5px;
+  padding-left: 5px;
+  font-size: 20px;
+  height: 25px;
 }
 
 .img-div {

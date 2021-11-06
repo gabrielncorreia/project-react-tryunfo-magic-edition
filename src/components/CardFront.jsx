@@ -30,7 +30,6 @@ class CardFront extends React.Component {
           <div className="img-div">
             <img
               src={ cardImage }
-              alt={ cardName }
               data-testid="image-card"
             />
           </div>

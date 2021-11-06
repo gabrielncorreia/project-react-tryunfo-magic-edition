@@ -32,7 +32,6 @@ class App extends React.Component {
 
   filterChangeHandler = (event) => {
     const { name, type, checked } = event.target;
-    const { superTrunfoFilter } = this.state;
     const value = type === 'checkbox' ? checked : event.target.value;
     this.setState({
       [name]: value,
